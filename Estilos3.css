@@ -1,0 +1,32 @@
+
+#presentacion {
+    color:blanchedalmond;
+    background-color: #42b883;}
+
+
+.h2 {
+        background-color:#a2c11c;
+        
+    }
+        h4 {
+    
+            text-align: center;
+            background-color: rgb(6, 54, 108);
+        }
+u{
+    color:black;
+}  
+
+p{
+    color:#02c39a;
+}
+.crear {
+    color: #1f6f78;
+    font-style: italic;
+    text-align: center;
+}
+
+.der {
+    background-color: #a21232;
+    color: aliceblue;
+}
